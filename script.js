@@ -12,7 +12,7 @@ let cardsEl = document.getElementById("cards-el", "cardsEl");
 
 let player = {
     name: "Player",
-    chips: 5
+    chips: 50
 }
 
 let playerEl = document.getElementById("player-el", "playerEl");
